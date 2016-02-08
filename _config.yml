@@ -1,28 +1,40 @@
-name: Watson Law Group
-favicon: null
-layout_spectrum: 0.9043057621456683
-typography_spectrum: 0.2398384790867567
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.748271222691983
+  brandStrength: 0.8054589526727796
+  rhythmicContrast: 0.9815698377788067
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8054589526727796
   lightness: 0.06275730323977768
-  saturation: 0.748271222691983
-  rhythmicContrast: 0.9815698377788067
-purpose: []
+typography_spectrum: 0.893617
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Watson Law Group
