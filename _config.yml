@@ -1,0 +1,28 @@
+name: Watson Law Group
+favicon: null
+layout_spectrum: 0.9043057621456683
+typography_spectrum: 0.2398384790867567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8054589526727796
+  lightness: 0.06275730323977768
+  saturation: 0.748271222691983
+  rhythmicContrast: 0.9815698377788067
+purpose: []
